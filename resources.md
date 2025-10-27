@@ -8,3 +8,7 @@
 - [Course website]
 - [Library resources]
 - [Video Lectures]
+
+## Learning Groups
+- Joining seminars
+- Going on field trips
